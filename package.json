@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_task_5",
+  "version": "1.0.0",
+  "description": "task5",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Folarinde",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
